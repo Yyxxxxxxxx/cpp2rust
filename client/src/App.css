@@ -1,0 +1,11 @@
+.inputWrapper {
+  padding: 0 2vw;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  
+  .cpp,
+  .rust {
+    width: 46vw;
+  }
+}

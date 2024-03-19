@@ -1,0 +1,14 @@
+.header { 
+    color: #858585;
+    background-color: #1e1e1e;
+    width: 46vw;
+    text-indent: 1em;
+}
+
+.operator {
+    margin-top: 10px;
+
+    button {
+        margin-right: 10px;
+    }
+}
